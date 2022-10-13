@@ -10,7 +10,7 @@ Based on the "Salta" scenario from the phenomenal [Sad Servers](https://sadserve
 
 > Note: since the setup for the activity requires a bit of custom image setup and docker in docker, this is much easier to run in Gitpod, so just click the button above if you want to try it out.
 
-There's a container-based NodeJS application in `/home/admin/app`. Build it and run the container on port `8888` that's accessible at `localhost:8888`.
+There's a container-based NodeJS application in starting directory. Build it and run the container on port `8888` so it's accessible at `localhost:8888`.
 
 When you can run:
 
